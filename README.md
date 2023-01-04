@@ -1,1 +1,1 @@
-# seth_tiqc
+My repository for my internship at Tech Incubator at Queen's College.
